@@ -77,6 +77,8 @@ p{
 }
 .row a{
 	text-decoration: none;
-	color: blue;
+	color: rgb(245, 245, 254);
+	line-height: 1.9rem;
+	border-bottom: 1px solid #fff;
 	
 }
